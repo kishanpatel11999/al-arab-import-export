@@ -2048,6 +2048,7 @@ p.copy-right a:hover {
         padding: 2em 0;
     }
     .carousel-caption {
+        font-size: 10px;
         min-height: 380px !important;
         padding-top: 10em;
     }
