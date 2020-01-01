@@ -2038,6 +2038,15 @@ p.copy-right a:hover {
     h3.tittle-w3ls {
         font-size: 1.6em;
     }
+    .carousel-caption  {
+        
+        min-height: 395px !important;
+        padding-top: 10em;
+    }
+    .carousel-caption p {
+        font-size: 10px;
+        min-height: 395px !important;
+    }
 }
 @media(max-width:384px){
 	.top-buttons {
@@ -2048,12 +2057,13 @@ p.copy-right a:hover {
         padding: 2em 0;
     }
     .carousel-caption  {
-        min-height: 380px !important;
+        
+        min-height: 395px !important;
         padding-top: 10em;
     }
     .carousel-caption p {
         font-size: 10px;
-        min-height: 380px !important;
+        min-height: 395px !important;
     }
     .carousel-control {
         line-height: 24em;

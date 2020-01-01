@@ -84,7 +84,7 @@ app.post('/form',(req,res)=>{
     res.redirect('/contact');
 })
 
-const PORT = process.env.PORT || 3005;
+const PORT = process.env.PORT || 3010;
 app.listen(PORT,(req,res)=>{
     console.log(`server started in port on ${PORT}...`);
 })
